@@ -1,0 +1,14 @@
+
+.detail_span {
+    display: block;
+    width: 300px;
+    height: 200px;
+    display: flex;
+        align-items: center;
+    padding: 30px;
+    font-size: 30px;
+    background: #eee;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 100px;
+}
